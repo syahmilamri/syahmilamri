@@ -34,3 +34,16 @@ src="https://img.shields.io/github/followers/syahmilamri?logo=github&style=for-t
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+## Courses: 
+
+<p align="left">
+-SECI1013 DISCRETE STRUCTURE
+  
+-SECJ1013 PROGRAMMING TECHNIQUE I
+
+-SECP1513 TECHNOLOGY AND INFORMATION SYSTEM
+
+-SECR1013 DIGITAL LOGIC
+
+-ULRS1032 INTEGRITY AND ANTI-CORRUPTION COURSE
