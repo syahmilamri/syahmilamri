@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based in Johor, Malaysia
-* ✉️  You can contact me at [syahmilamri@gmail.com](mailto:syahmilamri@gmail.com)
+* ✉️  Feel free to reach out via email at [syahmilamri@gmail.com](mailto:syahmilamri@gmail.com)
 * 🧠  I'm currently learning DaVinci Resolve
 
   <h2>🎓 Education</h2>
