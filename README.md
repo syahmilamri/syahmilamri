@@ -15,17 +15,22 @@ I am a undergraduate student at Universiti Teknologi Malaysia, Bachelor of Compu
 * 🧠  I'm currently learning DaVinci Resolve
 
   <h2>🎓 Education</h2>
-  - Achieve 4A,3B,2C on Sijil Pelajaran Malaysia (SPM)
-  - Obtained a CGPA of 3.79 in Matriculation (Physical Science)
+<ul>
+  <li>Achieved 4A, 3B, 2C on Sijil Pelajaran Malaysia (SPM)</li>
+  <li>Obtained a CGPA of 3.79 in Matriculation (Physical Science)</li>
+</ul>
 
-  <h2>🎖️ Achievement & Leadership Role </h2>
-  - President of Pembimbing Rakan Sebaya
-  - Vice-President of Asrama Tunku Abdul Jalil
-  - Vice-President of Multimedia CLub (Videofrapher & Editing)
-  - Runner-Up for Bertutur Bahasa Melayu (Kluang District)
-  - Best Male Participant for Bertutur Bahasa Melayu (Kluang District)
-  - 4th Place Java Coding Competition (Kolej Matrikulasi Johor)
-  - Top 10 on Math Olympiad (Kolej Matrikulasi Johor)
+<h2>🎖️ Achievements & Leadership Roles</h2>
+<ul>
+  <li>President of Pembimbing Rakan Sebaya</li>
+  <li>Vice-President of Asrama Tunku Abdul Jalil</li>
+  <li>Vice-President of Multimedia Club (Videographer & Editing)</li>
+  <li>Runner-Up for Bertutur Bahasa Melayu (Kluang District)</li>
+  <li>Best Male Participant for Bertutur Bahasa Melayu (Kluang District)</li>
+  <li>4th Place Java Coding Competition (Kolej Matrikulasi Johor)</li>
+  <li>Top 10 in Math Olympiad (Kolej Matrikulasi Johor)</li>
+</ul>
+
 
 
 <p align="left">
