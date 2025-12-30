@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------
 
 <b>I am a undergraduate student at Universiti Teknologi Malaysia, Bachelor of Computer Science (Graphics and Multimedia Software) with Honours.
-<b>*Familiar around C++ and Java. I am also familiar with video editing with multiple software like CapCut, Alight Motion, Adobe After Effects
-<b>*I am also a Math and Additional Math tutor for high school and SPM students, focused on helping students understand concepts clearly and improve their exam performance. I also do video editing and create educational and creative content that has gained strong engagement and many likes on social media platforms.
+* <b>Familiar around C++ and Java. I am also familiar with video editing with multiple software like CapCut, Alight Motion, Adobe After Effects
+* <b>I am also a Math and Additional Math tutor for high school and SPM students, focused on helping students understand concepts clearly and improve their exam performance. I also do video editing and create educational and creative content that has gained strong engagement and many likes on social media platforms.
 
 
 * 🌍  I'm based in Johor, Malaysia
