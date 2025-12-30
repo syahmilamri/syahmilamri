@@ -14,7 +14,18 @@ I am a undergraduate student at Universiti Teknologi Malaysia, Bachelor of Compu
 * ✉️  You can contact me at [syahmilamri@gmail.com](mailto:syahmilamri@gmail.com)
 * 🧠  I'm currently learning DaVinci Resolve
 
-  <h2>🎓 Education</h2>>
+  <h2>🎓 Education</h2>
+  - Achieve 4A,3B,2C on Sijil Pelajaran Malaysia (SPM)
+  - Obtained a CGPA of 3.79 in Matriculation (Physical Science)
+
+  <h2>🎖️ Achievement & Leadership Role </h2>
+  - President of Pembimbing Rakan Sebaya
+  - Vice-President of Asrama Tunku Abdul Jalil
+  - Vice-President of Multimedia CLub (Videofrapher & Editing)
+  - Runner-Up for Bertutur Bahasa Melayu (Kluang District)
+  - Best Male Participant for Bertutur Bahasa Melayu (Kluang District)
+  - 4th Place Java Coding Competition (Kolej Matrikulasi Johor)
+  - Top 10 on Math Olympiad (Kolej Matrikulasi Johor)
 
 
 <p align="left">
