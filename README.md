@@ -24,6 +24,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <li>President of Pembimbing Rakan Sebaya</li>
   <li>Vice-President of Asrama Tunku Abdul Jalil</li>
   <li>Vice-President of Multimedia Club (Videographer & Editing)</li>
+  <li>Secretary of Lembaga Koperasi Sekolah</li>
   <li>Runner-Up for Bertutur Bahasa Melayu (Kluang District)</li>
   <li>Best Male Contestant for Bertutur Bahasa Melayu (Kluang District)</li>
   <li>4th Place Java Coding Competition (Kolej Matrikulasi Johor)</li>
